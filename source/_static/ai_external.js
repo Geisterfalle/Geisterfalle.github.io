@@ -8,6 +8,8 @@ document.domain='ehrbase.org';
 
 var updateIframeHeight = "true";
 var keepOverflowHidden = "true";
+var resize_on_element_resize = "#content";
+var resize_on_element_resize_delay = "100";
 
 if (typeof domain_ === 'undefined') {
     var domain_ = 'http://ehrbase.org/wp-content/plugins/advanced-iframe'; // Check if this is your wordpress directory of ai
