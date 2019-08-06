@@ -2,6 +2,7 @@
  *  Advanced iframe external workaround file v2019.x free 
  *  Created: 2019-08-06 08:41:01  
 */ 
+document.domain='ehrbase.org';
 
 var domain_advanced_iframe = 'http://ehrbase.org/wp-content/plugins/advanced-iframe'; // Check if this is your wordpress directory of ai
  
