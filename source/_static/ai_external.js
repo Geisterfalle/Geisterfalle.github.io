@@ -6,7 +6,7 @@ document.domain='ehrbase.org';
 
 var domain_advanced_iframe = 'http://ehrbase.org/wp-content/plugins/advanced-iframe'; // Check if this is your wordpress directory of ai
  
- // Variables are checked with typeof before because this enables that the user can be
+ // Variables are checked with typeof before because this enables that the user can
 // define this values before and after including this file and they don't have to set 
 // them at all if not needed.
 if (typeof iframe_id === 'undefined') {
