@@ -15,8 +15,8 @@ Welcome to EHRbase's documentation!
 Indices and tables
 ==================
 
+01_HiGHmed/00_HiGHmed
+
 * :ref:`genindex`
 * :ref:`modindex`
 * :ref:`search`
-
-Hallo Welt! Ich bin neu!
