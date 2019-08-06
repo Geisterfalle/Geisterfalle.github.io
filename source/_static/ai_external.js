@@ -63,7 +63,7 @@ function aiExecuteWorkaround_advanced_iframe123456() {
         //  margins top and bottom are set to 0 because the wrapper is not always used. 
         wrapperElement.style.marginTop = wrapperElement.style.marginBottom = 0;
         var newHeight = parseInt(wrapperElement.offsetHeight,10);
-    
+		newHeight = "100%";
         //  Get the height from the body. The problem with this solution is that an iframe can not shrink anymore.
         //  remove everything from createAiWrapperDiv() until here for the alternative solution. 
         //  var newHeight = Math.max(document.body.scrollHeight, document.body.offsetHeight,
