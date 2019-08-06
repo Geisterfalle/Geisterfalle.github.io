@@ -12,6 +12,7 @@ Welcome to EHRbase's documentation!
    :caption: Contents:
 
    01_HiGHmed/00_HiGHmed
+   02_CrossSite_Processes/00_CrossSite_Processes
 
 
 
