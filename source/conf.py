@@ -93,7 +93,7 @@ html_theme = 'sphinx_rtd_theme'
 html_static_path = ['_static']
 
 html_js_files = [
-    '_static/ai_external.js',
+    'ai_external.js',
 ]
 
 # Custom sidebar templates, must be a dictionary that maps document names
