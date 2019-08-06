@@ -94,7 +94,7 @@ html_static_path = ['_static']
 
 
 html_js_files = [
-    'document.js'
+    'ai_external.js'
 ]
 
 #html_js_files = [

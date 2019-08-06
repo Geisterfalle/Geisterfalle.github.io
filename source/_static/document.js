@@ -1,1 +1,0 @@
-document.domain='ehrbase.org';
