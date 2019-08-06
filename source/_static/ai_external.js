@@ -5,6 +5,9 @@
 
 document.domain='ehrbase.org';
 
+
+var updateIframeHeight = "true";
+var keepOverflowHidden = "false";
 var domain_advanced_iframe123456 = 'http://ehrbase.org/wp-content/plugins/advanced-iframe'; // Check if this is your wordpress directory of ai
  
  // Variables are checked with typeof before because this enables that the user can
