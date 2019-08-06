@@ -7,15 +7,16 @@ Welcome to EHRbase's documentation!
 ===================================
 
 .. toctree::
+   :numbered:
    :maxdepth: 2
    :caption: Contents:
+
+   01_HiGHmed/00_HiGHmed
 
 
 
 Indices and tables
 ==================
-
-01_HiGHmed/00_HiGHmed
 
 * :ref:`genindex`
 * :ref:`modindex`
